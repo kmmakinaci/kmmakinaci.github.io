@@ -1,0 +1,14 @@
+title: "Kemal Mert Makinaci's Blog"
+description: "A blog documenting my learning process and technical insights."
+author: "Kemal Mert Makinaci"
+baseurl: ""  # Leave blank for GitHub Pages
+url: "https://kmmakinaci.github.io"
+theme: "minima"
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+navigation:
+  - title: Home
+    url: /
