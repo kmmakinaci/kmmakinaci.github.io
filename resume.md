@@ -6,7 +6,7 @@ permalink: /resume/
 
 # Kemal Mert Makinaci - Software Engineer
 
-**Dresden, Germany** | [kmmakinaci@gmail.com](mailto:kmmakinaci@gmail.com)  
+**Dresden, Germany** | [kemalmert.makinaci@gmail.com](mailto:kemalmert.makinaci@gmail.com)  
 [LinkedIn](https://linkedin.com/in/kemalmertmakinaci) | [GitHub](https://github.com/kmmakinaci)
 ---
 
